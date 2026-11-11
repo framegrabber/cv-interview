@@ -1,0 +1,38 @@
+# Fields: references/schema.md in the cv-interview skill.
+
+- id: acme-platform
+  roles: [acme-vp-eng]
+  period: "2022–2023"
+  tracks: [vp, principal]
+  status: complete
+  source_text: "Led platform consolidation"
+  situation: "Three deployment stacks inherited from acquisitions; releases needed a 9-day coordinated train; two planned products blocked on infrastructure."
+  decision: "Jane chose one stack (the Kubernetes-based one) over a rewrite, froze the other two for new services, and funded a 4-person platform team from existing headcount."
+  scope: "6 teams, ~120 services, 45 engineers."
+  outcome: "Lead time 9 days → 1 day (DORA dashboard, 2023-Q4); two products launched within 12 months of the decision."
+  evidence: "Internal DORA dashboard; launch announcements on the Acme blog."
+  referee: "Sam Lee, Acme CTO until 2024"
+  secret: ["£4.2M"]
+  do_not_claim:
+    - "The third stack is not fully decommissioned; 6 services still run on it"
+  notes: "Platform team built it; Jane decided the direction and found the headcount."
+
+- id: acme-hiring
+  roles: [acme-vp-eng]
+  period: "2022–2025"
+  tracks: [vp]
+  status: in-progress
+  source_text: "Improved hiring process"
+  situation: "18 engineers, one manager layer missing; hiring ad hoc."
+  decision: "Introduced a structured interview loop and a manager track; promoted from within before hiring externally."
+  scope: "18 → 45 engineers; 5 EMs."
+  outcome: "4 of 5 EMs promoted internally; time to hire not measured."
+  evidence: ""
+  referee: ""
+  secret: []
+  unknowns: ["referee", "time to hire"]
+
+- id: globex-k8s
+  roles: [globex-em]
+  status: imported
+  source_text: "Drove migration to Kubernetes"

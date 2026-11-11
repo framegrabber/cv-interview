@@ -1,0 +1,8 @@
+# Fields: references/schema.md in the cv-interview skill.
+
+- id: leaddev-2024
+  kind: talk
+  title: "One platform, three products"
+  venue: "LeadDev London"
+  date: "2024-06"
+  tracks: [vp]

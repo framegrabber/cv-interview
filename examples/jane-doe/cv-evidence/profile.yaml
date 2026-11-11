@@ -1,0 +1,33 @@
+# Fields: references/schema.md in the cv-interview skill.
+
+name: {first: Jane, last: Doe}
+email: jane@example.com
+location: "London, remote"
+links: [linkedin.com/in/janedoe-example]
+cv_languages: [en]
+
+positioning:
+  tracks: [vp, principal]
+  arc: "From checkout engineering manager to the VP who scaled Acme's engineering org through its multi-product phase."
+  signature_themes:
+    - "Consolidates platforms so new products ship faster"
+    - "Grows engineers into managers"
+  red_flags:
+    - flag: "VP title with 45 engineers"
+      facts: "6 teams, 5 EMs, serving 3 product lines"
+      framing: "Scope line states teams and product lines, not only headcount"
+  pitches:
+    - track: vp
+      headline: "VP Engineering"
+      summary: "Engineering leader who scaled a fintech from one product to three with 45 engineers in 6 teams, cutting lead time from 9 days to 1."
+
+education:
+  - id: msc-cs
+    title: "MSc Computer Science"
+    institution: "University of Example"
+    end: "2010"
+
+certifications: []
+languages:
+  - {language: English, fluency: Native}
+  - {language: Portuguese, fluency: Conversational}

@@ -1,0 +1,5 @@
+# The facts behind bullets. Never printable.
+# Fields: references/schema.md. `secret` strings must never appear in printable text;
+# `do_not_claim` lists implications no bullet may make.
+
+[]

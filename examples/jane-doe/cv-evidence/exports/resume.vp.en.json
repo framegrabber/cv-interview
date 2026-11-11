@@ -1,0 +1,41 @@
+{
+  "basics": {
+    "name": "Jane Doe",
+    "label": "VP Engineering",
+    "email": "jane@example.com",
+    "summary": "Engineering leader who scaled a fintech from one product to three with 45 engineers in 6 teams, cutting lead time from 9 days to 1.",
+    "location": { "city": "London, remote" },
+    "profiles": [
+      { "network": "LinkedIn", "username": "janedoe-example", "url": "https://linkedin.com/in/janedoe-example" }
+    ]
+  },
+  "work": [
+    {
+      "name": "Acme Payments Ltd",
+      "position": "VP Engineering",
+      "location": "London",
+      "startDate": "2022-03",
+      "summary": "Reporting to the CEO; 6 teams and 45 engineers in London and Lisbon serving three product lines.",
+      "highlights": [
+        "Consolidated three deployment stacks into one platform, cutting lead time from 9 days to 1 and enabling two product launches in 12 months"
+      ]
+    },
+    {
+      "name": "Globex",
+      "position": "Engineering Manager, later Senior Engineering Manager",
+      "location": "London",
+      "startDate": "2016-09",
+      "endDate": "2022-02"
+    }
+  ],
+  "education": [
+    { "institution": "University of Example", "studyType": "MSc Computer Science", "endDate": "2010" }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Native" },
+    { "language": "Portuguese", "fluency": "Conversational" }
+  ],
+  "projects": [
+    { "name": "One platform, three products", "entity": "LeadDev London", "type": "talk", "startDate": "2024-06" }
+  ]
+}

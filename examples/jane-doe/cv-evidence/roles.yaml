@@ -1,0 +1,30 @@
+# Fields: references/schema.md in the cv-interview skill.
+
+- id: acme-vp-eng
+  title: "VP Engineering"
+  company: "Acme Payments Ltd"
+  location: London
+  start: "2022-03"
+  end: present
+  kind: job
+  scope: "Reporting to the CEO; 6 teams and 45 engineers in London and Lisbon serving three product lines."
+  bullets:
+    - id: acme-platform-consolidation
+      story: acme-platform
+      tracks: [vp, principal]
+      skills: [platform-engineering]
+      text: "Consolidated three deployment stacks into one platform, cutting lead time from 9 days to 1 and enabling two product launches in 12 months"
+    - id: acme-hiring-managers
+      story: acme-hiring
+      tracks: [vp]
+      text: "Grew the org from 18 to 45 engineers and promoted 4 of 5 engineering managers from within"
+      review: [en]
+
+- id: globex-em
+  title: "Engineering Manager, later Senior Engineering Manager"
+  company: "Globex"
+  location: London
+  start: "2016-09"
+  end: "2022-02"
+  kind: job
+  bullets: []

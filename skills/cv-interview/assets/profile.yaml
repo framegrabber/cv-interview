@@ -1,0 +1,19 @@
+# Contacts, CV languages, positioning, education, certifications, spoken languages.
+# Fields: references/schema.md. Translatable values: plain string or {<lang>: …}.
+
+name: {first: "", last: ""}
+email: ""
+location: ""
+links: []
+cv_languages: [en]
+
+positioning:
+  tracks: []              # ranked: vp | cto | principal
+  arc: ""
+  signature_themes: []
+  red_flags: []           # {flag, facts, framing}
+  pitches: []             # {track, headline, summary, review}
+
+education: []
+certifications: []
+languages: []
